@@ -1,6 +1,6 @@
 # Deep-Learning-22WS-FAU
 Exercises of Lecture Deep Learning from FAU. 
-Naive Implementation of deep neural network
+Naive Implementation of deep neural network.
 # Ex0 
     Checker Board
     Circle
@@ -9,10 +9,13 @@ Naive Implementation of deep neural network
  # EX1
     Fully Connected Layer
     Forward and Backward
+    Loss Func (Cross Entropy)
     Basic Optimization Methods
  # EX2
-    Based on the layers before
+    Based on the implements before
     Convolutional Neural Network
     For- and Backprop
-    Initialization
+    Initialization (Xavier and He)
+    
+    
  ---------------------Still Updating---------------------

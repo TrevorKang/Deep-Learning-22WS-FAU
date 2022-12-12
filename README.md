@@ -5,9 +5,14 @@ Naive Implementation of deep neural network
     Checker Board
     Circle
     RGB Specturm
-    Batch Generator
+    Image Batch Generator
  # EX1
     Fully Connected Layer
+    Forward and Backward
+    Basic Optimization Methods
  # EX2
+    Based on the layers before
     Convolutional Neural Network
+    For- and Backprop
+    Initialization
  ---------------------Still Updating---------------------
